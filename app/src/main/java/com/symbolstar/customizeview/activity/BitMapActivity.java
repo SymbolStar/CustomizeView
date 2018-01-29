@@ -1,8 +1,10 @@
-package com.symbolstar.customizeview;
+package com.symbolstar.customizeview.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+
+import com.symbolstar.customizeview.R;
 
 /**
  * Created by fujindong on 26/01/2018.

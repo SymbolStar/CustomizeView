@@ -1,4 +1,4 @@
-package com.symbolstar.customizeview;
+package com.symbolstar.customizeview.view;
 
 import android.annotation.TargetApi;
 import android.content.Context;

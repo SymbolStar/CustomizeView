@@ -1,7 +1,9 @@
-package com.symbolstar.customizeview;
+package com.symbolstar.customizeview.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.symbolstar.customizeview.R;
 
 public class MainActivity extends AppCompatActivity {
 

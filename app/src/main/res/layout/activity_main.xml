@@ -4,15 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.symbolstar.customizeview.MainActivity">
+    tools:context="com.symbolstar.customizeview.activity.MainActivity">
 
-   <com.symbolstar.customizeview.EaseView
+   <com.symbolstar.customizeview.view.EaseView
        android:layout_width="300dp"
        android:layout_height="300dp"
        app:layout_constraintStart_toStartOf="parent"
        app:layout_constraintTop_toTopOf="parent" />
 
-   <com.symbolstar.customizeview.PointView
+   <com.symbolstar.customizeview.view.PointView
        android:layout_width="200dp"
        android:layout_height="200dp"
        android:layout_marginStart="64dp"
